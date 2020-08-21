@@ -18,7 +18,7 @@ Give me a support if you like,
        Email : yehantest@gmail.com / contact@yehanwasura.ml
        Instagram : <a href="instagram.com/official.yehanwasura.lk">official.yehanwasura.lk</a>
        Whatsapp : +94 0762679048
-       YouTube : https://www.youtube.com/channel/UCzK8p9qKo7hygzsZtshJC_g
+       YouTube : https://www.youtube.com/channel/UCPqSWt8ejyffLieFT-X9SXA
        
        Support Me Via Paypal : https://paypal.me/cyberrex599
        Support Me Via Patreon : https://patreon.com/yehanwasura
@@ -401,7 +401,7 @@ Give me a support if you like,
        Email : yehantest@gmail.com / contact@yehanwasura.ml
        Instagram : <a href="instagram.com/official.yehanwasura.lk">official.yehanwasura.lk</a>
        Whatsapp : +94 0762679048
-       YouTube : https://www.youtube.com/channel/UCzK8p9qKo7hygzsZtshJC_g
+       YouTube : https://www.youtube.com/channel/UCPqSWt8ejyffLieFT-X9SXA
        
        Support Me Via Paypal : https://paypal.me/cyberrex599
        Support Me Via Patreon : https://patreon.com/yehanwasura
