@@ -1,11 +1,27 @@
 <div style='text-align: center;' align='center'>
-    <img style='max-width: 300px;' src='ysharp_logo.png'/>
+    <img style='max-width: 300px;' src='logo.png'/>
 </div>
 
 # YSHARP - For Fun Coders
 > Founder : Yehan Wasura. Developed this language at the age of 16 (Year 2020).
-> A C-like scripting language.
+> A C-like scripting language. Advanced version of all Ysharp v1, v3 & v6 (These version are written in Python)
+> Main Reason of Developing : To Encourage Sri Lankans and to develop my skills
 
+# Donation & Contributions
+
+Give me a support if you like, 
+
+``` 
+  try to contribute and my contacts are :
+       Email : yehantest@gmail.com / contact@yehanwasura.ml
+       Instagram : <a href="instagram.com/official.yehanwasura.lk">official.yehanwasura.lk</a>
+       Whatsapp : +94 0762679048
+       YouTube : https://www.youtube.com/channel/UCzK8p9qKo7hygzsZtshJC_g
+       
+       Support Me Via Paypal : https://paypal.me/cyberrex599
+       Support Me Via Patreon : https://patreon.com/yehanwasura
+ ```      
+ 
 ## Example program
 > Here is a small program that iterates and writes the contents of a list:
 ```C
