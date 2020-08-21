@@ -1,0 +1,13 @@
+int i = 0;
+
+if (i == 1){
+    write("it's 1");
+
+} else if (i != 0) {
+    write("it's not 1");
+
+} else {
+    write("it's not");
+}
+
+write("hello world");

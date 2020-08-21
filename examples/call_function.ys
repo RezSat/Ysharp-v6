@@ -1,0 +1,8 @@
+write("start");
+
+void do_something()
+{
+    write("hello");
+}
+
+do_something();

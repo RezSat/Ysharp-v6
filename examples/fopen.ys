@@ -1,0 +1,7 @@
+object file = fopen("examples/functions.ys", "r");
+string x = file.read();
+
+write(x);
+
+fclose(file);
+

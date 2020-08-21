@@ -1,0 +1,18 @@
+string get_name()
+{
+    return "Yehan Wasura";
+}
+
+float get_age()
+{
+    return 22.3;
+}
+
+bool is_dead()
+{
+    return false;
+}
+
+write(get_name());
+write(get_age());
+write(is_dead());

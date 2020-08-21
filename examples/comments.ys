@@ -1,0 +1,18 @@
+#!/usr/local/bin/ysharp
+
+// printing/writing something
+
+write("hello"); // comment
+
+/*
+* comment yo
+*/
+
+write("batman"); /* comment */
+
+write("still alive");
+
+# woah comment
+write("alive 001"); # alive
+# alive
+write("alive");

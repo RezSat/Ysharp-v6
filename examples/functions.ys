@@ -1,0 +1,22 @@
+string get_name()
+{
+    return "Yehan Wasura";
+};
+
+float get_age()
+{
+    return 22.3;
+};
+
+bool is_dead()
+{
+    return false;
+};
+
+void write_nice_formate(string s1, string s2){
+    write(s1);
+}
+
+
+// write_nice_formate("nice formate"); // will throw error
+write_nice_formate("nice formate", "nice");

@@ -1,0 +1,4 @@
+cload("lib/pi.so", "getpi");
+
+float PI = getpi();
+

@@ -1,0 +1,2 @@
+string result = char_to_bin('a');
+write(result);

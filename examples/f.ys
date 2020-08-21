@@ -1,0 +1,6 @@
+void writeit(string to_print)
+{
+    write(to_print);
+}
+
+write("hello world");

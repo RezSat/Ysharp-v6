@@ -1,0 +1,22 @@
+int def_var()
+{
+    int abc = 1;
+
+    return abc;
+}
+
+void noop(int item)
+{
+    write(item);
+}
+
+
+int x = 2;
+while (x > 0)
+{
+    int abc = def_var();
+    write(abc);
+    noop(abc);
+
+    x -= 1;
+}

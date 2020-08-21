@@ -1,0 +1,9 @@
+void getfunc()
+{
+    return void @(string name)
+    {
+        write("hello " + name);
+    }
+}
+
+getfunc()("Yehan");
