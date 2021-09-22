@@ -2,27 +2,15 @@
     <img style='max-width: 300px;' src='logo.png'/>
 </div>
 
-# YSHARP - For Fun Coders
-> Founder : Yehan Wasura. Developed this language at the age of 16 (Year 2020).
+# YSHARP - Develop For Fun
 
-> A C-like scripting language. Advanced version of all Ysharp v1, v3 & v6 (These version are written in Python)
-
-> Main Reason of Developing : To Encourage Sri Lankans and to develop my skills
+> A C-like scripting language. Advanced version of all Ysharp v1, v3 (These version are written in Python)
 
 # Donation & Contributions
 
 Give me a support if you like, 
 
-``` 
-  try to contribute and my contacts are :
-       Email : yehantest@gmail.com / contact@yehanwasura.ml
-       Instagram : <a href="instagram.com/official.yehanwasura.lk">official.yehanwasura.lk</a>
-       Whatsapp : +94 0762679048
-       YouTube : https://www.youtube.com/channel/UCPqSWt8ejyffLieFT-X9SXA
-       
-       Support Me Via Paypal : https://paypal.me/cyberrex599
-       Support Me Via Patreon : https://patreon.com/yehanwasura
- ```      
+    
  
 ## Example program
 > Here is a small program that iterates and writes the contents of a list:
@@ -396,13 +384,7 @@ mingw64-make
 
 Give me a support if you like, 
 
-``` 
-  try to contribute and my contacts are :
-       Email : yehantest@gmail.com / contact@yehanwasura.ml
-       Instagram : <a href="instagram.com/official.yehanwasura.lk">official.yehanwasura.lk</a>
-       Whatsapp : +94 0762679048
-       YouTube : https://www.youtube.com/channel/UCPqSWt8ejyffLieFT-X9SXA
-       
+```  
        Support Me Via Paypal : https://paypal.me/cyberrex599
        Support Me Via Patreon : https://patreon.com/yehanwasura
  ```      
