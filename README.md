@@ -6,12 +6,7 @@
 
 > A C-like scripting language. Advanced version of all Ysharp v1, v3 (These version are written in Python)
 
-# Donation & Contributions
-
-Give me a support if you like, 
-
     
- 
 ## Example program
 > Here is a small program that iterates and writes the contents of a list:
 ```C
@@ -380,14 +375,4 @@ mingw64-make
 
 > To use an extension please have a look [here](CLOAD.md)
 
-# Donation & Contributions
-
-Give me a support if you like, 
-
-```  
-       Support Me Via Paypal : https://paypal.me/cyberrex599
-       Support Me Via Patreon : https://patreon.com/yehanwasura
- ```      
-
-ThankYou
 
